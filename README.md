@@ -5,4 +5,4 @@
 
 Scopul acestui proiect este simplu: **Realizarea si conectarea fisierelor la platforma Git.**
 
-[Cat. Yawning Cat](D:\Galbau3112a\TemaLab1\Proiect_Web\Orange-colored-cat-yawns-displaying-teeth.jpg)
+![Cat. Yawning Cat](https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg)
